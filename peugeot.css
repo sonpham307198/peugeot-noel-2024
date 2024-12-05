@@ -1,4 +1,4 @@
-.mmis-snow-1{
+.peu-snow-1{
     position: absolute; pointer-events: none;
     top:0;
     left:0;
@@ -11,7 +11,7 @@
 }
 
 
-.mmis-snow-2{
+.peu-snow-2{
     position: absolute; pointer-events: none;
     top:0;
     left:0;
@@ -22,7 +22,7 @@
     animation: animationSnow 4s ease-in-out infinite;
 }
 
-.mmis-snow-3{
+.peu-snow-3{
     position: absolute; pointer-events: none;
     top:0;
     left:0;
@@ -33,7 +33,7 @@
     animation: animationSnow 4s ease-in-out infinite;
 }
 
-.mmis-snow-0{
+.peu-snow-0{
     position: absolute; pointer-events: none;
     top:0;
     left:0;
