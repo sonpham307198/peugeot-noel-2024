@@ -11,7 +11,7 @@ for(var i = 0; i<50; i++){
   let id=Math.floor(Math.random() * 4);
     console.log(leftSnow);
     let div = document.createElement('div');
-    div.classList.add('mmis-snow-'+id);
+    div.classList.add('peu-snow-'+id);
     div.style.left = leftSnow + 'px';
     div.style.top = topSnow + 'px';
     div.style.zIndex = 999999;
