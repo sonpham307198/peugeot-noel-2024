@@ -1,6 +1,6 @@
  $(document).ready(function(){
 
-let container = document.footer;
+let container = document.body;
 let count = 50;
 for(var i = 0; i<50; i++){
     let leftSnow = Math.floor(Math.random() * container.clientWidth);
