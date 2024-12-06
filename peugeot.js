@@ -2,8 +2,8 @@
 
 let container = document.body;
 //let container = document.getElementsByClassName('wrapper');
-let count = 100;
-for(var i = 0; i<100; i++){
+let count = 150;
+for(var i = 0; i<150; i++){
     let leftSnow = Math.floor(Math.random() * container.clientWidth);
     let topSnow = Math.floor(Math.random() * container.clientHeight);
     let widthSnow = Math.floor(Math.random() * 25)+10;
