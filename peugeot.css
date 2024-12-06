@@ -33,6 +33,72 @@
     animation: animationSnow 4s ease-in-out infinite;
 }
 
+.peu-snow-4{
+    position: absolute; pointer-events: none;
+    top:0;
+    left:0;
+    width:50px;
+    height:50px;
+    background-image: url(snow-4.png);
+    background-size: contain;     background-repeat: no-repeat;
+    animation: animationSnow 4s ease-in-out infinite;
+}
+
+.peu-snow-5{
+    position: absolute; pointer-events: none;
+    top:0;
+    left:0;
+    width:50px;
+    height:50px;
+    background-image: url(snow-1.png);
+    background-size: contain;     background-repeat: no-repeat;
+    animation: animationSnow 4s ease-in-out infinite;
+}
+
+.peu-snow-6{
+    position: absolute; pointer-events: none;
+    top:0;
+    left:0;
+    width:50px;
+    height:50px;
+    background-image: url(snow-2.png);
+    background-size: contain;     background-repeat: no-repeat;
+    animation: animationSnow 4s ease-in-out infinite;
+}
+
+.peu-snow-7{
+    position: absolute; pointer-events: none;
+    top:0;
+    left:0;
+    width:50px;
+    height:50px;
+    background-image: url(snow-3.png);
+    background-size: contain;     background-repeat: no-repeat;
+    animation: animationSnow 4s ease-in-out infinite;
+}
+
+.peu-snow-8{
+    position: absolute; pointer-events: none;
+    top:0;
+    left:0;
+    width:50px;
+    height:50px;
+    background-image: url(snow-4.png);
+    background-size: contain;     background-repeat: no-repeat;
+    animation: animationSnow 4s ease-in-out infinite;
+}
+
+.peu-snow-9{
+    position: absolute; pointer-events: none;
+    top:0;
+    left:0;
+    width:50px;
+    height:50px;
+    background-image: url(snow-1.png);
+    background-size: contain;     background-repeat: no-repeat;
+    animation: animationSnow 4s ease-in-out infinite;
+}
+
 .peu-snow-0{
     position: absolute; pointer-events: none;
     top:0;
